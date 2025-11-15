@@ -1,2 +1,3 @@
 # Power-BI-TASK_2
 Superstore Profit and Loss Analysis (Data Storytelling)
+This Superstore analysis reveals clear seasonal sales spikes, especially during peak shopping months, while profit trends show that strong sales don’t always guarantee high profit due to discounts and operational costs. Technology emerges as the highest revenue-generating category, though profitability varies across sub-categories. Regionally, certain areas outperform others, signaling where market opportunities are strongest. The top 10 products drive a large portion of profit, whereas the bottom 10 consistently lose money—highlighting areas for product strategy improvement.
